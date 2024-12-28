@@ -1,0 +1,9 @@
+[submodule "MIPS-Game"]
+	path = MIPS-Game
+	url = https://github.com/apprealmei/MIPS-assembly-language-Rock-Paper-Scissors-Game
+[submodule "Ecommerce-UI"]
+	path = Ecommerce-UI
+	url = https://github.com/apprealmei/Ecommerce-UI-Sample
+[submodule "Lumbab_Project"]
+	path = Lumbab_Project
+	url = https://github.com/apprealmei/Lumbab_Project
